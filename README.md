@@ -1,12 +1,12 @@
 # Running my solution
 - Install the latest lts version of nodejs (I personally like to use nvm for this. [link to nvm](https://github.com/nvm-sh/nvm)
 - Download my solution, extract, and place in desired location.
-- Navigate to story-prompt folder and run **npm install esm
-- Then navigate to the mad-lib directory and run **npm link
+- Navigate to story-prompt folder and run **npm install esm**
+- Then navigate to the mad-lib directory and run **npm link**
 - Repeate the above step while inside the dis-stats directory.
 - Go back to the main story-prompt repository.
-- To run the mad-lib application enter the name of the app, followed by a json string as an argument, into your cli. Ex: **mad-lib '{JSON STRING}'
-- To run dis-stats simply enter the name of the app with no arguments. Ex: **dis-stats
+- To run the mad-lib application enter the name of the app, followed by a json string as an argument, into your cli. Ex: **mad-lib '{JSON STRING}'**
+- To run dis-stats simply enter the name of the app with no arguments. Ex: **dis-stats**
 
 # Prompt
 ## Instructions
