@@ -8,7 +8,7 @@
 - To run the mad-lib application enter the name of the app, followed by a json string as an argument, into your cli. Ex: **mad-lib '{JSON STRING}'
 - To run dis-stats simply enter the name of the app with no arguments. Ex: **dis-stats
 
-#Prompt
+# Prompt
 ## Instructions
 
 Thanks for doing this project as part of your interview process. We appreciate your time and want to make this a fun experience. If you have any questions at all, please reach out to us and we'll get back to you.
