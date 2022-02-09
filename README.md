@@ -1,4 +1,4 @@
-#Running my solution
+# Running my solution
 - Install the latest lts version of nodejs (I personally like to use nvm for this. [link to nvm](https://github.com/nvm-sh/nvm)
 - Download my solution, extract, and place in desired location.
 - Navigate to story-prompt folder and run **npm install esm
