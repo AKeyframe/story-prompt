@@ -1,7 +1,7 @@
 # Running my solution
 - Install the latest lts version of nodejs (I personally like to use nvm for this. [link to nvm](https://github.com/nvm-sh/nvm))
 - Download my solution, extract, and place in desired location.
-- Navigate to story-prompt folder and run **npm install esm**
+- Navigate to story-prompt folder in your cli and run **npm install esm**
 - Then navigate to the mad-lib directory and run **npm link**
 - Repeate the above step while inside the dis-stats directory.
 - Go back to the main story-prompt repository.
